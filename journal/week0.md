@@ -12,7 +12,7 @@ I created a conceptual diagram of a cruddur (micro-blogging) app.
 
 I created a logical diagram of the micro blogger app using lucid chart.
 
-![Image of the logical diagrm](assets/Week-0_CRUDDUR-Logical-Diagram.png)
+![Image of the logical diagrm](assets/Week-0_CRUDDUR-LogicalArchitecturalDiagram.png)
 
 ### Create a Billing Alarm
 
